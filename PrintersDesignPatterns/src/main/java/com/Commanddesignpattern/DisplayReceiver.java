@@ -9,3 +9,5 @@ public class DisplayReceiver {
 	    disc = false;
 	  }
 }
+
+
