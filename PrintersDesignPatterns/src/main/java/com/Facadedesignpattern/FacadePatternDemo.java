@@ -7,5 +7,7 @@ public class FacadePatternDemo {
 	      pFacade.printCopiedData();
 	      pFacade.printFaxData();
 	      pFacade.printScannedData();	
-	   }	
+	 }	
 }
+
+
